@@ -1,0 +1,170 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer to the Quakers pretended charity above ingratitude; made manifest in their barbarous and unrighteous dealings in the case of Thomas Boyce of Horselydown in the county of Surrey, who had been one of them above ten years: and with the consent, and upon the earnest request of the said Thomas Boyce, published to the world.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01747</idno>
+            <idno type="STC">Wing B3901A</idno>
+            <idno type="STC">ESTC R173029</idno>
+            <idno type="EEBO-CITATION">51784406</idno>
+            <idno type="OCLC">ocm 51784406</idno>
+            <idno type="VID">174828</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01747)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174828)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2701:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer to the Quakers pretended charity above ingratitude; made manifest in their barbarous and unrighteous dealings in the case of Thomas Boyce of Horselydown in the county of Surrey, who had been one of them above ten years: and with the consent, and upon the earnest request of the said Thomas Boyce, published to the world.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.,]</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed 1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"With Allowance, Octob. 2. 1676. Roger L'Estrange."</note>
+                  <note>Imperfect: print show-through with some loss of text.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Thomas Boyce.</term>
+               <term>Society of Friends --  Controversial literature --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:174828:1" rendition="simple:additions"/>
+            <p>AN ANSWER TO THE QUAKERS PRETENDED CHARITY Above Ingratitude; Made manifeſt in their Barbarous and unrighteous Dealings in the Caſe OF Thomas Boyce OF <hi>HORSELYDOWN</hi> In the County of <hi>Surrey,</hi> Who had been one of them above Ten years:</p>
+            <p>And with the conſent, and upon the earneſt requeſt of the ſaid <hi>Thomas Boyce,</hi> publiſhed to the World.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>With Allowance,</p>
+                        <closer>
+                           <dateline>
+                              <date>Octob. 2. 1676.</date>
+                           </dateline> 
+                           <signed>Roger L'Eſtrange.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:174828:2"/>
+            <head>The Quakers Wickedneſs.</head>
+            <p>FOr the Readers clearer apprehenſion of the following Caſe, he is deſired to be informed, that this <hi>Thomas Boyce,</hi> by Trade a Taylor, living on <hi>Horſelydown</hi> in <hi>Southwark,</hi> was, many years ſince, ſeduced by the fair words, ſeeming Inno<g ref="char:EOLhyphen"/>cency and Holineſs, and high pretences to Infallibility and Perfection of the People called <hi>Quakers,</hi> to fre<g ref="char:EOLhyphen"/>quent their Aſſemblies and Company; and at laſt his Innocent well-meaning Spirit was ſo far wrought upon by their ſpecious Inſinuations, as to expoſe himſelf to the diſpleaſure of his former Acquaintance and Relations, ſo as to declare himſelf to be one of their Party, and continued to be one of them above Ten years; during which time, through thoſe Clouds of Miſapprehenſion which they had caſt upon his Underſtanding, he believed their ways to be the beſt, and accordingly walked conſcienciouſly amongſt them, being ſtrictly true to what he profeſs'd: but afterwards finding ſome of the Heads (or Leading-men) as well as others of them, acting contrary to their declared Principles, he was willing in the Spi<g ref="char:EOLhyphen"/>rit of Meekneſs and Righteouſneſs, to tell them of their Errours, Backſlidings, and Hypocriſie; who in<g ref="char:EOLhyphen"/>ſtead of harkening to him, or reforming themſelves, fell upon him by way of threatning with great and
+<pb n="3" facs="tcp:174828:2"/>terrible words; which cauſed a trouble upon his minde; and about <hi>June</hi> 1673, he was ſuddenly taken in a ſtrange manner, to the amazement of them that ſaw him, it being amongſt ſeveral hundreds of the ſaid people called <hi>Quakers;</hi> whereupon ſome of them moſt falſly and unjuſtly cried out, Deceit; and others ſaid, He was made a publick Signe for his wickedneſs. After which time his Speech was taken from him, and he continued wholly dumb for the ſpace of Three and thirty weeks together, onely ſome few words he might ſpeak for a week or two, but ſo weakly and brokenly, that thoſe that were with him could not perceive what he meant; and for five weeks together he could eat no food at all, onely drank water; and as it was not perceived that he had any ſleep during all that time, ſo does he not know that in the whole Three and thirty weeks he was at all ſick. The cauſe of which his preternatu<g ref="char:EOLhyphen"/>ral Affliction he ſhall not raſhly preſume to judge of: But this he ſhall preſume to ſay, That the <hi>Quakers,</hi> in that his deplorable Condition, were not wanting to adde Affliction to Affliction, falſely declaring and ſuggeſting, That the ſaid <hi>Thomas Boyce</hi> was a Diſſem<g ref="char:EOLhyphen"/>bler by making himſelf dumb and lazy; one of their chief Preachers ſaying, That he could both ſpeak and work too, if he liſt, while he was ſo ſpeechleſs: Whereas, in truth, the ſaid <hi>Thomas</hi> could not ſpeak, nor was able to work, as by the teſtimony of Two perſons, choſen to judge between the <hi>Quakers</hi> and him, does upon full inquiry appear; as likewiſe by the atteſtation of all his Neighbours, ready on that oc<g ref="char:EOLhyphen"/>caſion to be produced.</p>
+            <pb n="4" facs="tcp:174828:3"/>
+            <p> That the <hi>Quakers</hi> upon the occaſions before-men<g ref="char:EOLhyphen"/>tioned, refuſed to employ the ſaid <hi>Tho. Boyce</hi> after<g ref="char:EOLhyphen"/>wards in his Trade, which lay wholly amongſt them; and by ſuch Lyes, falſe Accuſations, and Slanders, diſ<g ref="char:EOLhyphen"/>perſed amongſt all that knew him, perſwaded and hardned others againſt him, not to let him have any work neither; thereby endeavouring as much as in them lay to ſtarve him and his Family; which ſo far took effect, that by means thereof, and his lamentable Affliction, he is now reduced to extream Poverty, who before did help to relieve them Though true it is, three eminent <hi>Quakers</hi> did offer to allow him Suſtenance, but it was upon ſuch a Condition as he could not in Conſcience and Honeſty conſent to and perform; for if he had, he believes he ſhould be an undone man for ever.</p>
+            <p>Theſe People called <hi>Quakers</hi> pretend themſelves to be the Seers, and all others out of their form and man<g ref="char:EOLhyphen"/>ner of Dreſs to be blinde; but we may eaſily prove them Lyars out of their own mouths, who tell peo<g ref="char:EOLhyphen"/>ple, <hi>They muſt be perfect, as God is perfect;</hi> which State of Perfection muſt be <hi>witneſſed in this life;</hi> and all that preach againſt ſuch their Doctrine, they ſay, <hi>Are the Miniſters of the Devil.</hi> Now whether theſe men themſelves be in ſuch a ſtate of Perfection, and whoſe Miniſters they are, let the Chriſtian Rea<g ref="char:EOLhyphen"/>der judge: For <hi>the tree is known by its fruit.</hi> Now ſome of the beſt of theſe (called <hi>Quakers</hi>) in particu<g ref="char:EOLhyphen"/>lar, have threatned to vex the ſaid <hi>Tho. Boyce,</hi> and cal<g ref="char:EOLhyphen"/>led him Knave, Traytor, and <hi>Judas,</hi> with other vile and opprobrious Terms, would have turned him headlong down ſtairs. And at another time ſome of
+<pb n="5" facs="tcp:174828:3"/>them took him by the legs and dragged him down ſtairs with his head on the ground, and had him to<g ref="char:EOLhyphen"/>wards the ſtreet, expoſing him to the inſolence of ſome rude Boys there, and then ſet him upon his legs; who being ſearce able to ſtand, by reaſon of their Abuſes, to excuſe themſelves they gave out he was Drunk, and pretended to ſend for a Conſtable to fetch him away; but were ſo barbarous, that they would not give him a little water to waſh off the blood they had drawn of him. From theſe Actions I would in<g ref="char:EOLhyphen"/>quire what is become of that Meekneſs, Patience, and ſtillneſs of Spirit which the men outwardly pre<g ref="char:EOLhyphen"/>tend to? certainly the <hi>Quakers State of Perfection</hi> is much like that which ſome men repreſent for the <hi>State of Nature,</hi> where men may lawfully worry and prey upon one another.</p>
+            <p>Again, that theſe people are guilty of groſs Hypo<g ref="char:EOLhyphen"/>criſie is evident, for that they pretend they cannot take an Oath for Conſcience ſake, nor ſwear at all in any Caſe: And one of their Preachers, <hi>viz. Solomon Eccles</hi> ſays, <hi>Our Yea and Nay is more than Swearing in a Court of Judicature:</hi> But if ſo, pray be pleaſed to inquire, why they do not take one another's <hi>Yea</hi> and <hi>Nay</hi> without ſubſcribing to their form, that what they declare is the truth and no other.</p>
+            <p>The Form (or the <hi>Quakers</hi> Oath) is thus:</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="oath">
+                        <p>
+                           <hi>I</hi> A. B. <hi>do Declare in the Truth of my Heart, in the Fear of God, and before theſe</hi> (meaning the Heads of the <hi>Quakers</hi>) <hi>his faithful Witneſſes, That,</hi> &amp;c. Or otherwiſe,—<hi>In the preſence of God,</hi> or, <hi>of him
+<pb n="6" facs="tcp:174828:4"/>that knoweth all things.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>And without ſuch or ſuch<g ref="char:EOLhyphen"/>like Declaration, they will not permit any one to Marry (as they call it) among them; nor in ſome ca<g ref="char:EOLhyphen"/>ſes will lend Money without ſuch a Subſcription. Now let the ſober judge, how much this Form wants of an abſolute Oath, againſt which they pre<g ref="char:EOLhyphen"/>tend ſo great a tenderneſs.</p>
+            <p>Furthermore, the ſaid <hi>Quakers</hi> are falſe Accuſers and unjuſt Judges; for ſome of the heads of them, pretending to be Judges, did cauſe to be brought before them a Woman and her Son, being of their own Society, and accuſed them of Lying together and being unclean (commonly called Inceſt) and did without ſufficient proof paſs Judgment, that they were unclean. Whereupon the ſaid <hi>Tho. Boyce</hi> hear<g ref="char:EOLhyphen"/>ing thereof, went to the chief of the ſaid Judges, deſiring to hear what he could ſay in the matter, be<g ref="char:EOLhyphen"/>ing fully ſatisfied that he had given wrong Judg<g ref="char:EOLhyphen"/>ment: But inſtead of regarding the ſaid <hi>Tho. Boyce</hi> therein, the ſaid Judge raſhly and without any ſha<g ref="char:EOLhyphen"/>dow of proof, or colour of Crime, adjudged and pronounced him unclean alſo.</p>
+            <p>Yet afterwards the <hi>Quakers</hi> preferred a Laſs to this Young-man (the Son, who was ſo judged unclean) and joined them together as Man and Wife, accord<g ref="char:EOLhyphen"/>ing to their before expreſſed Form: But ſhe after<g ref="char:EOLhyphen"/>wards not behaving herſelf according to the Place and Duty of a Wife, the ſaid <hi>Tho. Boyce</hi> acquain<g ref="char:EOLhyphen"/>ting ſome of the Heads of the <hi>Quakers</hi> therewith, one of them (chiefly inſtrumental in putting them to<g ref="char:EOLhyphen"/>gether) did acknowledg <hi>he had known her long to be a wild Laſs;</hi> and another of them ſaid, <hi>She was
+<pb n="7" facs="tcp:174828:4"/>of a bewitching ſpirit, and a depth of deceit, and that ſhe had deceived a Servant of his, who</hi> (he ſaid) <hi>cried out ſhe had undone him, and ſoon after died;</hi> And further ſaid, <hi>He feared ſhe would prove a Whore.</hi> And therefore they were willing to let her have a Husband, leſt ſhe ſhould bring a diſhonour upon the Truth.</p>
+            <p>After all theſe Tranſactions, the <hi>Quakers</hi> publiſh<g ref="char:EOLhyphen"/>ed a Paper againſt the ſaid <hi>Tho. Boyce,</hi> charging him for diſturbing them, with ſeveral other falſe and ſcandalous Imputations, none of all which they could ever prove: For true it is, after he had been at their private Houſes and private Meetings, to know what was the Deceit and Wickedneſs they had accuſed him of, and wherein he was unclean, and finding no ſatisfaction, the ſaid <hi>Tho. Boyce</hi> did at their publick Aſſemblies require the ſame thing. But inſtead of Chriſtian Satisfaction, ſome of the <hi>Quakers</hi> there met laid violent hands on him, ſome taking him by the Throat, others thruſting their Elbows on his Breaſt, and ſome thruſting and punching his Belly and Stomach, even ready to take away his Breath; ſo that he could have no Right done him, either in Private or Publick, but ſtill they go on to load him with Slaunders and Reproaches, notwithſtanding he has it teſtified under the Hands of two judicious Men, who have examin'd the whole matter, and whom the <hi>Quakers</hi> themſelves at their Meeting in <hi>Gracious-ſtreet</hi> did ſay, they believed were honeſt Men, and might be competent Judges therein: The ſaid <hi>Tho. Boyce,</hi> I ſay, hath it under the ſaid two Per<g ref="char:EOLhyphen"/>ſons Hands, That he is innocent of what the <hi>Quakers</hi>
+               <pb n="8" facs="tcp:174828:5"/>accuſe him, and that they cannot finde that he hath wronged the People called <hi>Quakers;</hi> but on the contrary, that he hath been much wronged by the <hi>Quakers</hi> ſcandalous accuſation againſt him, to his great loſs of Credit and Trade, as by the ſaid Certi<g ref="char:EOLhyphen"/>ficate and Teſtimonial, dated <hi>Jan.</hi> 20. 1674. ready to be produced, appears.</p>
+            <p>Nor has the <hi>Quakers</hi> Injuſtice and Partiality been leſs ſhewn againſt the ſaid <hi>Tho. Boyce</hi> in another Caſe, wherein he came before them for Juſtice againſt one of their Preachers, that had abuſed him; having met with nothing but Deceit, Delays and wicked Dealing in that affair, as by the ſeveral Papers, un<g ref="char:EOLhyphen"/>der the Hands of the perſons concerned is manifeſt.</p>
+            <p>And now having thus oppreſſed and tyranniz'd over the poor man, withdrawn his Cuſtome and Livelihood, taken away his good Name, aſſaulted him in his Body, ruined him in his Credit, and un<g ref="char:EOLhyphen"/>done him in Eſtate, to ſtop Peoples ears againſt his juſt Complaints, they every where publiſh and give out, that the ſaid <hi>Tho. Boyce</hi> is diſtracted, and out of his Wits, <hi>&amp;c.</hi> But although true it is, That Op<g ref="char:EOLhyphen"/>preſſion, according to the Saying of the Wiſeſt of Men, is apt to make even a wiſe man mad; yet through the Mercy of God, the ſaid <hi>Tho. Boyce</hi> is in Sound Mind, and wiſhes all thoſe that deſire to con<g ref="char:EOLhyphen"/>tinue ſo, to have nothing to do with this deceitful Generation of Men called <hi>Quakers:</hi> Who ſay they are infallible, and perfect, and a holy Seed, but are in truth Hypocrites and of the Synagogue of Satan.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
